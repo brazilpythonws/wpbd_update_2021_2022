@@ -16,14 +16,14 @@ This repository is organized into the following main folders:
 #### 1. [.../4th_Edition_WPDB_2021/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/4thBrazilianWorkshopPythonForBioData_2021)
   - **Description**: Contains all the materials from the fourth edition of the Brazilian Python Workshop for Biological Data.
   - **Contents**:
-        - Class_Notebooks/: .ipynb files used during lessons.
-        - Feedback_Forms/: Virtual forms used to collect feedback from participants.
+        `- Class_Notebooks/: .ipynb files used during lessons.`
+        `- Feedback_Forms/: Virtual forms used to collect feedback from participants.`
      
 #### 2. [.../5th_Edition_WPDB_2022/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/5thBrazilianWorkshopPythonForBioData_2022)
   - **Description**: Contains all the materials from the fifth edition of the Brazilian Python Workshop for Biological Data.
   - **Contents**:
-        - Class_Notebooks/: .ipynb files used during lessons.
-        - Feedback_Forms/: Virtual forms used to collect feedback from participants.
+        `- Class_Notebooks/: .ipynb files used during lessons.`
+        `- Feedback_Forms/: Virtual forms used to collect feedback from participants.`
 
 #### 3. [.../Code_of_Conduct/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/CodeOfConduct)
   - **Description**: Guidelines for the organizing team and participants during the workshop.
