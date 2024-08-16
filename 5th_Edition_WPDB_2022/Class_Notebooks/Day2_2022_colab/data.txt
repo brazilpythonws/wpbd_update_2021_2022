@@ -1,0 +1,4 @@
+Nome	Idade
+Renato	31
+Carlos	37
+Amanda	22
