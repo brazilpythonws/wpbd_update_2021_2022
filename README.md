@@ -2,7 +2,7 @@
 
 This repository contains materials from the **4th and 5th Editions** of the Brazilian Python Workshop for Biological Data, held in 2021 and 2022, respectively. Our initiative focuses on basic programming concepts and data handling techniques using popular Python libraries. The advancements and challenges encountered in these recent editions have been compiled into a manuscript, which can be accessed using the following link:
 
-[Título do Artigo](https://)
+[Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges](https://)
 
 ## Abstract
 
@@ -45,7 +45,7 @@ Similar to the 2020 edition, both editions were structured online with the intro
 
 1. **Clone the repository**: Use `git clone` to download the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/brazilpythonws/wpbd_update_2021_2022.git
    ```
 
 2. **Navigate to the desired edition**: Choose between `4th_Edition_WPDB_2021/` or `5th_Edition_WPDB_2022/` based on your needs.
