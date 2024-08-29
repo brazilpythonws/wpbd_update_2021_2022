@@ -12,6 +12,8 @@ Similar to previous editions (the III and IV Brazilian Python Workshops for Biol
 ![Figure 1](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg)
 *Figure 1*
 
+<a href="url"><img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg" align="left" height="48" width="48" ></a>
+
 Additionally, participants provided information regarding their gender identity (Figure 2). Eleven participants identified as cisgender men (approximately 45% of the responses), while 12 participants identified as cisgender women (50% of the responses). Only one participant did not identify with any of the categories provided by the form ("Cisgender Woman," "Cisgender Man," "Transgender Woman," "Transgender Man," "Non-binary," "Other," "Prefer not to classify," "Prefer not to answer"), representing approximately 5% of the responses.
 
 *Figure 2*
