@@ -10,7 +10,12 @@ During registration, an initial questionnaire was provided to the selected parti
 Similar to previous editions (the III and IV Brazilian Python Workshops for Biological Data, held in 2020 and 2021, respectively), an equal gender ratio was maintained in the participants selection, with 45.8% male and 54.2% female participants (Figure 1).
 
 ![Figure 1](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg)
+
+
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg" alt="drawing" width="200"/>
+
 *Figure 1*
+
 
 Additionally, participants provided information regarding their gender identity (Figure 2). Eleven participants identified as cisgender men (approximately 45% of the responses), while 12 participants identified as cisgender women (50% of the responses). Only one participant did not identify with any of the categories provided by the form ("Cisgender Woman," "Cisgender Man," "Transgender Woman," "Transgender Man," "Non-binary," "Other," "Prefer not to classify," "Prefer not to answer"), representing approximately 5% of the responses.
 
