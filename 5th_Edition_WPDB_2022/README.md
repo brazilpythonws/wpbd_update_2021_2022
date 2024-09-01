@@ -28,9 +28,9 @@ Furthermore, information regarding the participants' birth decade was collected.
 The virtual format was maintained for the V Brazilian Python Workshop for Biological Data, which facilitated the selection and participation of candidates from different geographical regions of Brazil (Figure 4). Compared to the IV edition, there was a decrease in the percentage of participants from the Southeast region - from 70% to approximately 38%- indicating a less concentrated geographical distribution. Consequently, the Northeast region saw an 8% increase compared to the 2021 edition, rising from 12% to 20.8%. Notably, the North region also matched the Northeast's percentage, showing an increase of approximately 14% compared to the IV edition of the event. Finally, the Midwest region accounted for 12.5% of the participants, while the South region represented 8.3%.
 
 <div class="images">
-    <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig3.%20DecadeOfBirth.png" alt="drawing" width="450" style="float:left">
+    <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig3.%20DecadeOfBirth.png" alt="drawing" width="250" style="float:left">
     <p>This is image 1</p>
-    <img  src=" https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/5th_Edition_WPDB_2022/Charts/Fig3.%20YearOfBirth.png" alt="drawing" width="450">
+    <img  src=" https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/5th_Edition_WPDB_2022/Charts/Fig3.%20YearOfBirth.png" alt="drawing" width="250">
     <p>This is image 3</p>
 </div>
 
