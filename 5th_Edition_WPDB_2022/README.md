@@ -12,7 +12,7 @@ Similar to previous editions (the III and IV Brazilian Python Workshops for Biol
 ![Figure 1](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg)
 
 
-<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg" alt="drawing" width="400"/>
 
 *Figure 1*
 
