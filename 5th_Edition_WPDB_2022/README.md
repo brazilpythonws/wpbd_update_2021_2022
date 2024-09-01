@@ -9,21 +9,21 @@ During registration, an initial questionnaire was provided to the selected parti
 
 Similar to previous editions (the III and IV Brazilian Python Workshops for Biological Data, held in 2020 and 2021, respectively), an equal gender ratio was maintained in the participants selection, with 45.8% male and 54.2% female participants (Figure 1).
 
-![Figure 1](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg)
-
-
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig1.%20Gender.jpg" alt="drawing" width="450"/>
 
-*Figure 1*
-
+*Figure 1.* Insert text
 
 Additionally, participants provided information regarding their gender identity (Figure 2). Eleven participants identified as cisgender men (approximately 45% of the responses), while 12 participants identified as cisgender women (50% of the responses). Only one participant did not identify with any of the categories provided by the form ("Cisgender Woman," "Cisgender Man," "Transgender Woman," "Transgender Man," "Non-binary," "Other," "Prefer not to classify," "Prefer not to answer"), representing approximately 5% of the responses.
 
-*Figure 2*
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig2.%20Gender_identity.png" alt="drawing" width="450"/>
+
+*Figure 2.* Insert text
 
 Furthermore, information regarding the birth decade of the participants was collected. Interestingly, over 66% of participants (16 responses) were born in the 1990s (Figure 3), while approximately 16% were born in the 2000s and 1980s (4 responses for each).
 
-*Figure 3*
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig3.%20DecadeOfBirth.png" alt="drawing" width="450"/>
+
+*Figure 3.* Insert text
 
 The virtual format was maintained for the V Brazilian Python Workshop for Biological Data, which facilitated the selection and participation of candidates from different geographical regions of Brazil (Figure 4). Compared to the IV edition, there was a decrease in the percentage of participants from the Southeast region - from 70% to approximately 38%- indicating a less concentrated geographical distribution. Consequently, the Northeast region saw an 8% increase compared to the 2021 edition, rising from 12% to 20.8%. Notably, the North region also matched the Northeast's percentage, showing an increase of approximately 14% compared to the IV edition of the event. Finally, the Midwest region accounted for 12.5% of the participants, while the South region represented 8.3%.
 
