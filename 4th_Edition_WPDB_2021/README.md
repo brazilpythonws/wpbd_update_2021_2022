@@ -20,8 +20,7 @@ Additionally, participants provided information regarding their gender identity 
 
 Furthermore, information regarding the geographical distribution and birth decade of the participants was collected. Sixty per cent of the participants (21 responses) were born in the 1990s (Figure 3), while less than 40% (13 responses) were born in the 1980s. Only one participant was born in the 1970s (Figure 3).
 
-<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig3.DecadeOfBirth.png
-" alt="drawing" width="450"/>
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig3.DecadeOfBirth.png" alt="drawing" width="450"/>
 
 **Figure 3.** Insert text
 
@@ -39,8 +38,7 @@ Another criterion adopted in the participants selection was the proportional dis
 
 Participants also provided information about their respective fields of expertise within Science (Figure 6). Most participants work within the Biological Sciences (45% of the participants). Agricultural Sciences was also the field of study for 34% of the workshop participants. The remaining participants were involved in Natural Sciences (approximately 11%) and Biotechnology and Bioprocesses (8.5%).
 
-<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig6.FieldOfResearch.png
-" alt="drawing" width="450"/>
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig6.FieldOfResearch.png" alt="drawing" width="450"/>
 
 **Figure 6.** Insert text
 
@@ -58,7 +56,6 @@ Participants also shared their expectations for the IV Brazilian Python Workshop
 
 At the end of the workshop, participants completed a final questionnaire to evaluate the course's contribution to their learning and the challenges faced. Of the 35 participants who consented to participate in the research, 27 completed the course. During the registration process, participants were assessed on their skills and knowledge of the Python language. Among the 27 enrolled students, 18.5% (5) reported having experience with Python, 14.81% (4) had little experience, and 55.6% (15) had no prior experience (Figure 9 - Q1). By the end of the course, a reassessment showed that 74.0% (20) of the students had gained skills and knowledge in Python (Figure 9 - Q2). Additionally, many participants reported that the workshop content aligned with their research, particularly in producing graphs and manipulating data sets.
 
-<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig9.AdvancKnowledge.png
-" alt="drawing" width="450"/>
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig9.AdvancKnowledge.png" alt="drawing" width="450"/>
 
 **Figure 9.** Insert text
