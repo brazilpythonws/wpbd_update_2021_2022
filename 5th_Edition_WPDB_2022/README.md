@@ -60,6 +60,6 @@ We assessed the participants' skills and knowledge of the Python language before
 
 The assessment of skills and knowledge after the course showed that by the end of the workshop, 87.5% (21) had gained experience with Python, with 10 participants reporting moderate experience, 8 reporting good experience, and 3 reporting advanced experience (Figure 9 - Q2). Additionally, many participants noted that the workshop content aligned with their research, particularly in terms of graph production and data set manipulation.
 
-<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig9.%20AdvancKnowledge2.jpg" alt="drawing" width="450"/>
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/5th_Edition_WPDB_2022/Charts/Fig9.%20AdvancKnowledge2.jpg" alt="drawing" width="450"/>
 
 *Figure 9.* Insert text
