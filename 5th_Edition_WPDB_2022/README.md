@@ -47,13 +47,13 @@ During the selection process, we also evaluated the participants' profiles regar
 
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig7.%20PreviousExperience.png" alt="drawing" width="450"/>
 
-**Figure 7.** Insert text
+**Figure 7.** Percentage distribution of participants' experience with Python programming.
 
 Additionally, participants also shared their expectations for the event. Although 66% of participants had previous experience with the analysis/manipulation of biological data (primarily omics and phenotypic data), 75% aimed to analyze biological data using the skills taught in the workshop, as shown in Figure 8. Furthermore, 20% of participants expressed interest in executing or developing computational tools related to bioinformatics. Finally, a small portion of participants (approximately 5%) aimed to become programmers, seeking more specialized or advanced knowledge, which falls outside the general scope of the workshop.
 
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/f62a3d41c06487d7a7ac3280135f649184df79fd/5th_Edition_WPDB_2022/Charts/Fig8.%20ExpectationsCourseContent.png" alt="drawing" width="450"/>
 
-**Figure 8.** Insert text
+**Figure 8.** Percentage distribution of participants' expectations for the V WPDB. DA - Data Analysis; TE - Tool Execution; TD - Tool Developer; P - Programmer.
 
 At the end of the workshop, a final questionnaire was administered to participants to evaluate the course's contribution to their learning and knowledge, assess the course's structure and organization, and report any challenges faced. Of the 35 enrolled and selected participants who consented to participate in the research, only 24 completed the course.
 We assessed the participants' skills and knowledge of the Python language before and after the course. Among the 24 students who consented to participate in the research, 8.33% (2) did not respond to the final questionnaire, 45.83% (11) reported having no experience with Python, 33.33% (8) had little experience, 4.16% (1) had a good experience, and 8.33% (2) had extensive experience at the beginning of the course (Figure 9 - Q1). 
@@ -62,4 +62,4 @@ The assessment of skills and knowledge after the course showed that by the end o
 
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/5th_Edition_WPDB_2022/Charts/Fig9.%20AdvancKnowledge2.jpg" alt="drawing" width="450"/>
 
-**Figure 9.** Insert text
+**Figure 9.** Percentage distribution of participants' knowledge level before (Q1) and after (Q2) the Python Workshop. Q1 - Skill/knowledge level at the start of the course; Q2 - Skill/knowledge level at the end of the course.
