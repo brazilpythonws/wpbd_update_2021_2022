@@ -14,8 +14,7 @@ This repository is organized into the following main folders:
 
 #### 1. [.../4th_Edition_WPDB_2021/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/4thBrazilianWorkshopPythonForBioData_2021)
   - **Description**: Contains all the materials from the fourth edition of the Brazilian Python Workshop for Biological Data.
-  - **Contents**:
-
+  - **Contents**:  
         `- Charts/: Graphs generated from the analysis of the participants' data.`
         `- Class_Notebooks/: .ipynb files used during lessons.`
         `- Feedback_Forms/: Virtual forms used to collect data and feedback from participants.`
