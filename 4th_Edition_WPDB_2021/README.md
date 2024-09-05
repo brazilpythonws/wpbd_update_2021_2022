@@ -1,6 +1,6 @@
 # 4thBrazilianWorkshopPythonForBioData_2021
 
-The Brazilian Python Workshop for Biological Data (WPDB) in 2021 was conducted online and free of charge from September 20 to 24, 2021. The workshop was structured to introduce data analysis, organization, and extraction using Python. It began with an introductory lecture covering concepts related to Python syntax and programming, followed by practical classes in a “participatory live coding” format. During problem-solving and concept presentation, instructors wrote and narrated the code for the students, who were encouraged to write, record, and execute it themselves.
+The Brazilian Python Workshop for Biological Data (WPDB) in 2021 was conducted online and free of charge from September 20 to 24, 2021. The workshop was structured to introduce data analysis, organization, and extraction using Python. It began with an introductory lecture covering concepts related to Python syntax and programming, followed by practical classes in a “participatory live coding” format (NEDERBRAGT et al. 2020). During problem-solving and concept presentation, instructors wrote and narrated the code for the students, who were encouraged to write, record, and execute it themselves.
 A total of 37 participants were selected for the workshop, most of whom had little prior knowledge of the Python programming language. The selection criteria included an analysis of the student’s research topics and their involvement in scientific activities, as well as their expectations for the workshop.
 During registration, an initial questionnaire was provided to the selected participants to gather relevant information on geographical distribution, sex and gender identity, decade of birth, research institution, academic degree, field of expertise, programming experience, and expectations for the . Of the 37 participants selected, 35 signed the Informed Consent Form (ICF), which was fully available during registration, agreeing to and confirming their participation in the research**.
 
@@ -18,7 +18,7 @@ Additionally, participants provided information regarding their gender identity 
 
 **Figure 2.** Percentage distribution of participants who self-identified as "Cisgender man," "Cisgender woman," or "Prefer not to classify."
 
-Furthermore, information regarding the geographical distribution and birth decade of the participants was collected. Sixty per cent of the participants (21 responses) were born in the 1990s (Figure 3), while less than 40% (13 responses) were born in the 1980s. Only one participant was born in the 1970s (Figure 3).
+Furthermore, information regarding the geographical distribution and birth decade of the participants was collected. Among the participants, 60% (21 responses) were born in the 1990s (Figure 3), while less than 40% (13 responses) were born in the 1980s. Only one participant was born in the 1970s (Figure 3).
 
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig3.DecadeOfBirth.png" alt="drawing" width="450"/>
 
@@ -48,7 +48,7 @@ During the registration process, we also evaluated the participants' profiles re
 
 **Figure 7.** Percentage distribution of participants' experience with Python programming.
 
-Participants also shared their expectations for the IV WPDB. As shown in Figure 8, over 60% aimed to analyze biological data using the skills taught in the workshop. Nearly 30% expressed interest in executing programs and computational tools related to bioinformatics. A small portion (approximately 5%) of participants aspired to become developers/programmers, seeking more specialized or advanced knowledge that extended beyond the workshop’s general scope. One response, categorized as "Other" (Figure 8), highlighted a primary expectation of learning through practice ("Learn. And for it to be a more hands-on course.").
+Participants also shared their expectations for the IV WPDB. As shown in Figure 8, over 60% aimed to analyze biological data using the skills taught in the workshop. Nearly 30% expressed interest in executing programs and computational tools related to bioinformatics. A small portion (approximately 5%) of participants aspired to become developers/programmers, seeking more specialized or advanced knowledge that extended beyond the workshop’s general scope. One response, categorized as "Other" (Figure 8), highlighted a primary expectation of learning through practice ("to learn in a more practical way").
 
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig8.ExpectationsCourseContent.png" alt="drawing" width="450"/>
 
@@ -59,3 +59,7 @@ At the end of the WPDB, participants completed a final questionnaire to evaluate
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/4th_Edition_WPDB_2021/Charts/Fig9.AdvancKnowledge.png" alt="drawing" width="450"/>
 
 **Figure 9.** Percentage distribution of participants' knowledge level before (Q1) and after (Q2) the IV WPDB. Q1 = Skill/knowledge level at the start of the course; Q2 = Skill/knowledge level at the end of the course.
+
+#### References:
+
+1.  Nederbragt A, Harris RM, Hill AP, Wilson G. Ten quick tips for teaching with participatory live coding. PLOS Comput Biol. 2020;16: e1008090. doi: https://doi.org/10.1371/journal.pcbi.1008090
