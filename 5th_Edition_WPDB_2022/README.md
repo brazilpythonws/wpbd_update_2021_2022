@@ -63,3 +63,7 @@ The assessment of skills and knowledge after the course showed that by the end o
 <img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/5th_Edition_WPDB_2022/Charts/Fig9.%20AdvancKnowledge2.jpg" alt="drawing" width="450"/>
 
 **Figure 9.** Percentage distribution of participants' knowledge level before (Q1) and after (Q2) the Python Workshop. Q1 - Skill/knowledge level at the start of the course; Q2 - Skill/knowledge level at the end of the course.
+
+#### References:
+
+1.  Nederbragt A, Harris RM, Hill AP, Wilson G. Ten quick tips for teaching with participatory live coding. PLOS Comput Biol. 2020;16: e1008090. doi: https://doi.org/10.1371/journal.pcbi.1008090
