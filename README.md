@@ -1,6 +1,6 @@
 # Brazilian Python Workshop for Biological Data
 
-This repository contains materials from the **4th and 5th Editions** of the Brazilian Python Workshop for Biological Data, held in 2021 and 2022, respectively. Our initiative focuses on basic programming concepts and data handling techniques using popular Python libraries. The advancements and challenges encountered in these recent editions have been compiled into a manuscript, which can be accessed using the following link:
+This repository contains materials from the **4th and 5th Editions** of the Brazilian Python Workshop for Biological Data, held in 2021 and 2022, respectively. Our initiative focuses on teaching basic programming concepts and data handling techniques using popular Python libraries. The advancements and challenges encountered in these recent editions have been compiled into a manuscript, which can be accessed using the following link:
 
 [Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges](https://)
 
@@ -15,14 +15,16 @@ This repository is organized into the following main folders:
 #### 1. [.../4th_Edition_WPDB_2021/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/4thBrazilianWorkshopPythonForBioData_2021)
   - **Description**: Contains all the materials from the fourth edition of the Brazilian Python Workshop for Biological Data.
   - **Contents**:
+        `- Charts/: Graphs generated from the analysis of the participants' data.`
         `- Class_Notebooks/: .ipynb files used during lessons.`
-        `- Feedback_Forms/: Virtual forms used to collect feedback from participants.`
+        `- Feedback_Forms/: Virtual forms used to collect data and feedback from participants.`
      
 #### 2. [.../5th_Edition_WPDB_2022/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/5thBrazilianWorkshopPythonForBioData_2022)
   - **Description**: Contains all the materials from the fifth edition of the Brazilian Python Workshop for Biological Data.
   - **Contents**:
+        `- Charts/: Graphs generated from the analysis of the participants' data.`
         `- Class_Notebooks/: .ipynb files used during lessons.`
-        `- Feedback_Forms/: Virtual forms used to collect feedback from participants.`
+        `- Feedback_Forms/: Virtual forms used to collect data and feedback from participants.`
 
 #### 3. [.../Code_of_Conduct/](https://github.com/brazilpythonws/Updates_BrazilianWorkshopPythonForBiologicalData/tree/main/CodeOfConduct)
   - **Description**: Guidelines for the organizing team and participants during the workshop.
