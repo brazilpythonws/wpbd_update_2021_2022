@@ -62,4 +62,4 @@ We value your feedback! Please feel free to open an issue in this repository or 
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the Creative Commons Attribution Share Alike 4.0 International. See the [LICENSE](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/LICENSE) file for more details.
