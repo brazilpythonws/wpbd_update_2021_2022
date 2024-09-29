@@ -19,14 +19,14 @@ This repository is organized into the following main folders:
         `- Class_Notebooks/: .ipynb files used during lessons.`  
         `- Feedback_Forms/: Virtual forms used to collect data and feedback from participants.`
      
-#### 2. [.../5th_Edition_WPDB_2022/](https://github.com/brazilpythonws/wpbd_update_2021_2022/tree/main/5th_Edition_WPDB_2021)
+#### 2. [.../5th_Edition_WPDB_2022/](https://github.com/brazilpythonws/wpbd_update_2021_2022/tree/main/5th_Edition_WPDB_2022)
   - **Description**: Contains all the materials from the fifth edition of the Brazilian Python Workshop for Biological Data.
   - **Contents**:  
         `- Charts/: Graphs generated from the analysis of the participants' data.`  
         `- Class_Notebooks/: .ipynb files used during lessons.`  
         `- Feedback_Forms/: Virtual forms used to collect data and feedback from participants.`
 
-#### 3. [.../Code_of_Conduct/](https://github.com/brazilpythonws/wpbd_update_2021_2022/tree/main/CodeOfConduct)
+#### 3. [.../Code_of_Conduct/](https://github.com/brazilpythonws/wpbd_update_2021_2022/tree/main/Code_of_Conduct)
   - **Description**: Guidelines for the organizing team and participants during the workshop.
 
 
