@@ -2,7 +2,7 @@
 
 This repository contains materials from the **4th and 5th Editions** of the Brazilian Python Workshop for Biological Data, held in 2021 and 2022, respectively. Our initiative focuses on teaching basic programming concepts and data handling techniques using popular Python libraries. The advancements and challenges encountered in these recent editions have been compiled into a manuscript, which can be accessed using the following link:
 
-[Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges]([https://www.biorxiv.org/content/10.1101/2024.11.25.624749v1])
+[Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges](https://www.biorxiv.org/content/10.1101/2024.11.25.624749v1)
 
 ## Abstract
 
