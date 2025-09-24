@@ -41,6 +41,7 @@ A. Characterization of registrations
 
   Comparatively, an increase in enrollment was reported from the first edition (2017) until the 2022 edition (Fig 1A). A peak was observed during the first virtual edition in 2020 with 350 registrations. Because 2020 was the year of the COVID-19 outbreak and the need for social distancing and restrictions on large gatherings, many organizations and event planners opted for virtual events as a way to continue their activities while keeping participants safe [20], [21]. The pandemic has accelerated the trend of virtual events, and many organizations are likely to continue using this format in the future. As a result, there was a notable increase in the number of virtual events [20], possibly explaining the higher enrollment rate seen in Fig 1A. After 2020, there was a decrease in registrations (2021), but the number rose again for the 2022 edition, with more than 300 registrations.
 
+<img src="https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/Fig1_NEW.png" alt="drawing" width="900"/>
 
 Fig 1. Evolution of the number of participants and registrations in the Brazilian Python Workshop for Biological Data. (A) The number of registrations across the editions. The peak in registrations during the 2020 edition (the first conducted in a virtual format) can likely be attributed to the implementation of social distancing measures and restrictions on large gatherings due to the COVID-19 outbreak; (B) The pie charts overlaid on the map of Brazil illustrating the expanding geographic distribution of participants selected in the workshop over the years; Note: The cumulative total of participants selected over the years was 140, distributed as follows: Southeast (104), Northeast (13), North (11), Midwest (7), and South (5).
 
@@ -75,3 +76,4 @@ We value your feedback! Please feel free to open an issue in this repository or 
 ## License
 
 This repository is licensed under the Creative Commons Attribution Share Alike 4.0 International. See the [LICENSE](https://github.com/brazilpythonws/wpbd_update_2021_2022/blob/main/LICENSE) file for more details.
+
