@@ -56,7 +56,7 @@ This repository is licensed under the Creative Commons Attribution Share Alike 4
 ## Citation
 If you use any materials from this repository, please cite the following sources:
 
-### Primary article
+### Preprint article
 Crestana, G. S., da Silva Batista, U., Gonçalves Funnicelli, M. I., Braga, L. G., Zuvanov, L., Bizarria, R., de Sousa, R. M., Narciso Ferreira, P. H., Winck, F. V., Alves Margarido, G. R., de Mello Varani, A., Riaño-Pachón, D. M., & Corrêa dos Santos, R. A. (2024).  
 *Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges*.  
 **bioRxiv**. https://doi.org/10.1101/2024.11.25.624749
@@ -65,6 +65,16 @@ Crestana, G. S., da Silva Batista, U., Gonçalves Funnicelli, M. I., Braga, L. G
 Schiavone Crestana, G., da Silva Batista, U., Inácio Gonçalves Funnicelli, M., Braga, L., Zuvanov, L., Bizarria Júnior, R., Melo de Sousa, R., Ferreira, P., Vischi Winck, F., Rodrigues Alves Margarido, G., de Mello Varani, A., Riaño Pachón, D. M., & Corrêa dos Santos, R. A. (2025).  
 *Supplementary Material – Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges*.  
 **Zenodo**. https://doi.org/10.5281/zenodo.14906909
+
+### Raw data – Event evaluation (2021)
+Bizarria Júnior, R., Corrêa dos Santos, R. A., Tonolli Thomaz, A., Schiavone Crestana, G., Martins, P. M., Mendes Pinheiro, A. L., & de Mello Varani, A. (2025).  
+*Event Evaluation – Brazilian Python Workshop for Biological Data (2021)*.  
+**Zenodo**. https://doi.org/10.5281/zenodo.15306280
+
+### Raw data – Event evaluation (2022)
+Schiavone Crestana, G., Corrêa dos Santos, R. A., Inácio Gonçalves Funnicelli, M., Braga, L., Melo de Sousa, R., Bizarria Júnior, R., Monteiro-Vitorello, C. B., & Riaño Pachón, D. M. (2025).  
+*Event Evaluation – Brazilian Python Workshop for Biological Data (2022)*.  
+**Zenodo**. https://doi.org/10.5281/zenodo.15306379
 
 
 
