@@ -2,7 +2,7 @@
 
 This repository contains materials from the **4th and 5th Editions** of the Brazilian Python Workshop for Biological Data, held in 2021 and 2022, respectively. Our initiative focuses on teaching basic programming concepts and data handling techniques using popular Python libraries. The advancements and challenges encountered in these recent editions have been compiled into a manuscript, which can be accessed using the following link:
 
-[Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges](https://www.biorxiv.org/content/10.1101/2024.11.25.624749v1)
+[Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges](http://doi.org/10.1002/bmb.70071)
 
 ## Abstract
 
@@ -56,10 +56,10 @@ This repository is licensed under the Creative Commons Attribution Share Alike 4
 ## Citation
 If you use any materials from this repository, please cite the following sources:
 
-### Preprint article
-Crestana, G. S., da Silva Batista, U., Gonçalves Funnicelli, M. I., Braga, L. G., Zuvanov, L., Bizarria, R., de Sousa, R. M., Narciso Ferreira, P. H., Winck, F. V., Alves Margarido, G. R., de Mello Varani, A., Riaño-Pachón, D. M., & Corrêa dos Santos, R. A. (2024).  
+### Article
+Crestana, G. S., Batista, U. S., Funnicelli, M. I. G., Braga, L. G., Zuvanov, L., Bizarria, R., Sousa, R. M., Ferreira, P. H. N., Winck, F. V., Margarido, G. R. A., Mello Varani, A., Riaño-Pachón, D. M., & Santos, R. A. C. (2024).
 *Bridging the Python Training Gap for Bioscientists in Brazil: Improvements and Challenges*.  
-**bioRxiv**. https://doi.org/10.1101/2024.11.25.624749
+**Biochemistry and Molecular Biology Education**. 2026. 1–13. https://doi.org/10.1002/bmb.70071.
 
 ### Supplementary material
 Schiavone Crestana, G., da Silva Batista, U., Inácio Gonçalves Funnicelli, M., Braga, L., Zuvanov, L., Bizarria Júnior, R., Melo de Sousa, R., Ferreira, P., Vischi Winck, F., Rodrigues Alves Margarido, G., de Mello Varani, A., Riaño Pachón, D. M., & Corrêa dos Santos, R. A. (2025).  
